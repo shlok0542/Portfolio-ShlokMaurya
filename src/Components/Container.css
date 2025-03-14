@@ -1,0 +1,11 @@
+::-webkit-scrollbar{
+    width: 0px;
+}
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:2px;
+    margin-bottom: 10px;
+    
+}
