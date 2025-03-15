@@ -39,7 +39,7 @@ function About() {
       </div>
       {/* for mobile */}
 
-      <div className='lg:hidden AboutContainer w-full flex flex-col items-center'>
+      <div className='lg:hidden AboutContainer w-full flex flex-col items-center mb-15'>
       <div className=' w-full h-2/3 bg-[url(/myphoto2.png)] bg-orange-50 bg-cover bg-center bg-no-repeat Myphoto'>
 
       </div>
