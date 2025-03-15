@@ -11,7 +11,7 @@ function About() {
         {/* left */}
         <section className=' lg:bg-orange-200 w-1/3 p-8 '>
           <div className='Profile-card w-90 h-full lg:bg-orange-100 relative left-6 shadow-2xl flex-col '>
-            <div className='w-40 h-40 rounded-full bg-[url(../../public/profile-pic.png)] bg-cover bg-center'></div>
+            <div className='w-40 h-40 rounded-full bg-[url(/profile-pic.png)] bg-cover bg-center'></div>
             <div className='text-center text-2xl  font-serif mt-4'>Shlok Maurya</div>
             <div className='border-b-2 w-20 border-blue-600 m-5'></div>
             <div className='cursive_style text-center mb-4 text-cyan-600'>Front End Web Developer</div>
@@ -40,7 +40,7 @@ function About() {
       {/* for mobile */}
 
       <div className='lg:hidden AboutContainer w-full flex flex-col items-center'>
-      <div className=' w-full h-2/3 bg-[url(../../public/myphoto2.png)] bg-orange-50 bg-cover bg-center bg-no-repeat Myphoto'>
+      <div className=' w-full h-2/3 bg-[url(/myphoto2.png)] bg-orange-50 bg-cover bg-center bg-no-repeat Myphoto'>
 
       </div>
         <div className='absolute top-4/5 p-9 bg-white  rounded-t-4xl ProfileCard'>
