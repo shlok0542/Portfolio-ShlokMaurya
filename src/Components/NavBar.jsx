@@ -8,7 +8,7 @@ function NavBar() {
     <section className='flex justify-between w-full lg:w-1/2'>
       <div className="flex justify-start items-center">
       <div className=' bg-blue-600 mr-2 hidden md:w-5 md:h-5 md:block'></div>
-      <span className='font-bold text-xl mr-1 md:text-4xl text-nowrap'>Shlok Maurya<span className='m-0.5'>/</span></span>
+      <span className='font-bold text-2xl mr-1 md:text-4xl text-nowrap'>Shlok Maurya<span className='m-0.5'>/</span></span>
       <span className='cursive-style font-thin align-bottom text-xs md:text-xl text-nowrap  text-blue-500 '>Frontend Web Developer</span>
       </div>
       <div className="lg:hidden">

@@ -13,13 +13,13 @@ function FooterBar() {
   </nav>
   <nav>
     <div className="grid grid-flow-col gap-4">
-      <a>
-      <Linkedin color="#0000ff" size={30} className='m-2 hover:text-blue-400' />
+      <a href='https://www.linkedin.com/in/shlok-maurya0542?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
+      <Linkedin color="#0000ff" size={30} className='m-2 hover:text-blue-400'/>
       </a>
-      <a>
+      <a href='https://x.com/its_shlok_'>
       <Twitter color="#0000ff" size={30} className='m-2 hover:text-blue-400' />
       </a>
-      <a>
+      <a href=' https://www.instagram.com/shyshlok__?igsh=anJocnN5Y2p5aTgx'>
       <Instagram color="#0000ff" size={30} className='m-2 hover:text-blue-400'/>
       </a>
     </div>

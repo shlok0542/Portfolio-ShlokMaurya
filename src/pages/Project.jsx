@@ -30,7 +30,7 @@ function Project() {
               </p>
               <p className='text-xs p-4'><a href='https://shlok0542.github.io/chatbot/' className='text-blue-600'>Click here for Preview.</a></p>
             </section>
-            <section className='   w-1/2 h-full hidden lg:block'>
+            <section className='w-1/2 h-full hidden lg:block'>
             <div className='w-full h-full p-4 bg-[url(../../public/Logo1.png)] bg-cover bg-center rounded-2xl shadow-2xl hover:scale-105 transition-all ease-in-out'>
 
             </div>
